@@ -149,11 +149,7 @@ main {
     background-color:rgba(0, 255, 0, 0.5);
    
 }
-{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
+
 
 
 html, body {
@@ -194,7 +190,6 @@ html, body {
     background-color: rgba(0, 255, 0, 0.5);
     flex: 1; 
 }
-<hr>
 
 footer {
     background-color: #a9a9a9;
@@ -202,3 +197,4 @@ footer {
     text-align: center;
     padding: 10px 0;
 }
+
